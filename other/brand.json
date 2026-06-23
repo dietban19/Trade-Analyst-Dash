@@ -1,0 +1,110 @@
+{
+  "brand_replacements": {
+    "Pampers": "Nestlings",
+    "P&G PRO": "FacilityWorks Pro",
+    "Bounce": "FreshFold",
+    "Downy": "Softora",
+    "Gain": "Scentiva",
+    "Ivory Snow": "PureNest",
+    "Tide": "Washwell",
+    "Bounty": "QuickWipe",
+    "Charmin": "CloudRoll",
+    "Always": "EverEase",
+    "Always Discreet": "EverEase Comfort",
+    "Tampax": "CyclePure",
+    "This is L": "LunaCare",
+    "Gillette": "Steel & Stone",
+    "Braun": "Trimora",
+    "Gillette Venus": "Velora",
+    "Gold Series": "Crown Curl",
+    "Head & Shoulders": "ScalpSure",
+    "Herbal Essences": "BotaniGlow",
+    "Old Spice": "NorthPeak",
+    "Pantene": "SilkRoot",
+    "Cascade": "DishFlow",
+    "Dawn": "BrightDrop",
+    "Febreze": "AirBloom",
+    "Mr. Clean": "SparkMate",
+    "Swiffer": "Sweeply",
+    "Crest": "DentaBright",
+    "Oral-B": "BrushWell",
+    "Scope": "FreshMint",
+    "Align": "GutBalance",
+    "Clearblue": "TrueSignal",
+    "Metamucil": "Fiberwise",
+    "Nervive": "NerveEase",
+    "Pepto-Bismol": "TummyCalm",
+    "Vicks": "BreatheWell",
+    "ZzzQuil": "SleepNest",
+    "Olay": "DermaLuxe",
+    "Secret": "StayFresh",
+    "P&G brandSAVER": "Everyday Value Hub"
+  },
+  "category_brand_replacements": {
+    "Baby Care": {
+      "Pampers": "Nestlings"
+    },
+    "Commercial Care": {
+      "P&G PRO": "FacilityWorks Pro"
+    },
+    "Fabric Care": {
+      "Bounce": "FreshFold",
+      "Downy": "Softora",
+      "Gain": "Scentiva",
+      "Ivory Snow": "PureNest",
+      "Tide": "Washwell"
+    },
+    "Family Care": {
+      "Bounty": "QuickWipe",
+      "Charmin": "CloudRoll"
+    },
+    "Feminine Care": {
+      "Always": "EverEase",
+      "Always Discreet": "EverEase Comfort",
+      "Tampax": "CyclePure",
+      "This is L": "LunaCare"
+    },
+    "Grooming": {
+      "Gillette": "Steel & Stone",
+      "Braun": "Trimora",
+      "Gillette Venus": "Velora"
+    },
+    "Hair Care": {
+      "Gold Series": "Crown Curl",
+      "Head & Shoulders": "ScalpSure",
+      "Herbal Essences": "BotaniGlow",
+      "Old Spice": "NorthPeak",
+      "Pantene": "SilkRoot"
+    },
+    "Home Care": {
+      "Cascade": "DishFlow",
+      "Dawn": "BrightDrop",
+      "Febreze": "AirBloom",
+      "Mr. Clean": "SparkMate",
+      "Swiffer": "Sweeply"
+    },
+    "Oral Care": {
+      "Crest": "DentaBright",
+      "Oral-B": "BrushWell",
+      "Scope": "FreshMint"
+    },
+    "Personal Health Care": {
+      "Align": "GutBalance",
+      "Clearblue": "TrueSignal",
+      "Metamucil": "Fiberwise",
+      "Nervive": "NerveEase",
+      "Pepto-Bismol": "TummyCalm",
+      "Vicks": "BreatheWell",
+      "ZzzQuil": "SleepNest"
+    },
+    "Skin & Personal Care": {
+      "Gillette": "Steel & Stone",
+      "Olay": "DermaLuxe",
+      "Old Spice": "NorthPeak",
+      "Secret": "StayFresh"
+    },
+    "Multi-brand Program": {
+      "P&G brandSAVER": "Everyday Value Hub"
+    }
+  }
+}
